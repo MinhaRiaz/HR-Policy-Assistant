@@ -10,10 +10,9 @@ The assistant is designed to **stay grounded in the uploaded PDF**. If the reque
 
 ## 🚀 Live Demo
 
-After deployment, your Streamlit Cloud URL will look similar to:
+Try the live application:
 
-`https://hr-policy-assistant-app.streamlit.app/`
-
+https://hr-policy-assistant.streamlit.app/
 ---
 
 ## ✨ Features
@@ -140,7 +139,7 @@ Then configure your Groq API key and start Streamlit:
 streamlit run app.py
 ```
 
-This project does not require Google Colab, VS Code, or a terminal for GitHub → Streamlit Cloud deployment.
+You can deploy this project to Streamlit Community Cloud entirely through your browser using GitHub, without requiring Google Colab, VS Code, or a terminal.
 
 ---
 

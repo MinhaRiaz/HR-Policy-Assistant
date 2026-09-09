@@ -1,4 +1,4 @@
-````python
+
 import hashlib
 import os
 from typing import List, Dict, Tuple
@@ -800,4 +800,4 @@ def main():
 # ---------------------------------------------------------
 if __name__ == "__main__":
     main()
-````
+

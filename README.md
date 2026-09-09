@@ -12,9 +12,7 @@ The assistant is designed to **stay grounded in the uploaded PDF**. If the reque
 
 After deployment, your Streamlit Cloud URL will look similar to:
 
-`https://your-app-name.streamlit.app/`
-
-Replace the placeholder above with your actual URL after deployment.
+`https://hr-policy-assistant-app.streamlit.app/`
 
 ---
 
